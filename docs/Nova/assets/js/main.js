@@ -1,9 +1,9 @@
 /**
 * Template Name: Nova
-* Template URL: https://bootstrapmade.com/nova-bootstrap-business-template/
+* Template URL: https://lucas-d-nguyen-08.github.io/nova-bootstrap-business-template/
 * Updated: Jun 11 2024 with Bootstrap v5.3.3
 * Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
+* License: https://lucas-d-nguyen-08.github.io/license/
 */
 
 (function() {

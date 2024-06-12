@@ -1,6 +1,6 @@
 /**
 * PHP Email Form Validation - v3.8
-* URL: https://bootstrapmade.com/php-email-form/
+* URL: https://lucas-d-nguyen-08.github.io/php-email-form/
 * Author: BootstrapMade.com
 */
 (function () {

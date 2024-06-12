@@ -1,2 +1,2 @@
 The .scss (Sass) files are only available in the pro version.
-You can buy it from: https://bootstrapmade.com/flexstart-bootstrap-startup-template/
+You can buy it from: https://lucas-d-nguyen-08.github.io/flexstart-bootstrap-startup-template/

@@ -1,6 +1,6 @@
 Thanks for downloading this template!
 
 Template Name: Nova
-Template URL: https://bootstrapmade.com/nova-bootstrap-business-template/
+Template URL: https://lucas-d-nguyen-08.github.io/nova-bootstrap-business-template/
 Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+License: https://lucas-d-nguyen-08.github.io/license/

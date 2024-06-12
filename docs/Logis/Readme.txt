@@ -1,6 +1,6 @@
 Thanks for downloading this template!
 
 Template Name: Logis
-Template URL: https://bootstrapmade.com/logis-bootstrap-logistics-website-template/
+Template URL: https://lucas-d-nguyen-08.github.io/logis-bootstrap-logistics-website-template/
 Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+License: https://lucas-d-nguyen-08.github.io/license/
