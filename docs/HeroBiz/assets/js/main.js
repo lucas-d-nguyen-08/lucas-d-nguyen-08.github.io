@@ -2,7 +2,7 @@
 * Template Name: HeroBiz
 * Template URL: https://lucas-d-nguyen-08.github.io/herobiz-bootstrap-business-template/
 * Updated: Jun 06 2024 with Bootstrap v5.3.3
-* Author: BootstrapMade.com
+* Author: Lucas Nguyen.com
 * License: https://lucas-d-nguyen-08.github.io/license/
 */
 

@@ -2,7 +2,7 @@
 * Template Name: Nova
 * Template URL: https://lucas-d-nguyen-08.github.io/nova-bootstrap-business-template/
 * Updated: Jun 11 2024 with Bootstrap v5.3.3
-* Author: BootstrapMade.com
+* Author: Lucas Nguyen.com
 * License: https://lucas-d-nguyen-08.github.io/license/
 */
 
